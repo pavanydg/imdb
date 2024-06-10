@@ -1,0 +1,142 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "short_description": "A poignant tale of hope and friendship set within the confines of Shawshank prison, where a wrongly convicted man finds solace and purpose.",
+        "full_description": "The Shawshank Redemption is a compelling drama that follows Andy Dufresne, a young banker who is sentenced to life imprisonment for the murder of his wife and her lover, despite maintaining his innocence. In the harsh reality of Shawshank Penitentiary, Andy forms an unlikely friendship with fellow inmate Red, and through perseverance and intellect, he navigates the complexities of prison life while maintaining hope for freedom and redemption.",
+        "rating": 9.3,
+        "image":"https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    },
+    {
+        "title": "The Godfather",
+        "short_description": "An epic saga of power, loyalty, and betrayal unfolds within the illustrious Corleone crime family, as patriarch Don Vito Corleone seeks to secure his empire amidst shifting alliances.",
+        "full_description": "The Godfather chronicles the life of Vito Corleone, a powerful Mafia boss in New York during the 1940s and 50s, and his son Michael, who reluctantly assumes control of the family business after his father's near-fatal shooting. As Michael navigates the treacherous world of organized crime, he grapples with the weight of his family's legacy and the moral compromises required to protect it.",
+        "rating": 9.2,
+        "image":"https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    {
+        "title": "The Dark Knight",
+        "short_description": "Gotham City descends into chaos as the Caped Crusader battles his greatest adversary, the Joker, in a riveting tale of heroism and villainy.",
+        "full_description": "The Dark Knight follows Bruce Wayne's quest to rid Gotham City of crime as his alter ego, Batman. When the Joker, a sadistic criminal mastermind, unleashes a reign of terror, Batman confronts his own moral boundaries and must choose between upholding his principles and stopping the chaos that threatens to consume the city. With its gritty realism and complex characters, The Dark Knight redefines the superhero genre and explores themes of justice, sacrifice, and the nature of evil.",
+        "rating": 9.0,
+        "image":"https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+    },
+    {
+        "title": "Pulp Fiction",
+        "short_description": "Quentin Tarantino's masterpiece weaves together interlocking stories of crime, redemption, and absurdity in a non-linear narrative that defies convention.",
+        "full_description": "Pulp Fiction intertwines the lives of two mob hitmen, a boxer, a gangster's wife, and a pair of petty criminals in a series of interconnected vignettes. Through its unconventional structure and razor-sharp dialogue, the film explores themes of violence, redemption, and the blurred line between good and evil, creating an unforgettable cinematic experience that has left an indelible mark on popular culture.",
+        "rating": 8.9,
+        "image":"https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    {
+        "title": "Schindler's List",
+        "short_description": "Steven Spielberg's haunting masterpiece recounts the true story of Oskar Schindler, a German businessman who saved over a thousand Jews during the Holocaust.",
+        "full_description": "Schindler's List is a powerful testament to the human spirit amidst the horrors of the Holocaust. Based on the true story of Oskar Schindler, a German industrialist who risked his life to save Jews from the Nazis, the film explores themes of compassion, heroism, and the triumph of the human spirit in the face of unspeakable evil. Shot in black and white, with haunting performances and a stirring score, Schindler's List is a cinematic masterpiece that will leave a lasting impact on viewers.",
+        "rating": 8.9,
+        "image":"https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "short_description": "The epic conclusion to Peter Jackson's fantasy trilogy sees Frodo and Sam journeying to Mount Doom to destroy the One Ring, while Aragorn leads the forces of Middle-earth in a climactic battle against Sauron's forces.",
+        "full_description": "In The Lord of the Rings: The Return of the King, Frodo and Sam continue their perilous journey to Mount Doom to destroy the One Ring and end Sauron's reign of terror. Meanwhile, Aragorn must rally the forces of Middle-earth for a final confrontation with the Dark Lord's armies. As the fate of the world hangs in the balance, the bonds of friendship and courage are tested as never before in this sweeping epic of heroism and sacrifice.",
+        "rating": 8.9,
+        "image":"https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    {
+        "title": "Forrest Gump",
+        "short_description": "Tom Hanks stars in this heartwarming tale of a simple man whose extraordinary journey intersects with some of the most defining moments of the 20th century.",
+        "full_description": "Forrest Gump is a cinematic masterpiece that follows the life of Forrest Gump, a simple-minded yet kind-hearted man from Alabama, whose remarkable journey takes him from the football fields of college to the battlefields of Vietnam, from the boardrooms of corporate America to the shrimp boats of the Gulf Coast. Along the way, he encounters historical figures, witnesses historic events, and touches the lives of everyone he meets with his innocence, honesty, and unwavering optimism.",
+        "rating": 8.8,
+        "image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Forrest_Gump_poster.jpg/220px-Forrest_Gump_poster.jpg"
+    },
+    {
+        "title": "Inception",
+        "short_description": "Christopher Nolan's mind-bending thriller follows a skilled thief who must navigate the world of dreams to accomplish the ultimate heist.",
+        "full_description": "Inception is a visually stunning and intellectually stimulating masterpiece that explores the nature of reality and the power of the human mind. Dom Cobb, a skilled thief, is tasked with implanting an idea into the subconscious of a target through the use of shared dreaming technology. As he assembles his team and delves deeper into the realm of dreams, Cobb confronts his own demons and questions the nature of his reality, leading to a thrilling and thought-provoking journey that challenges the very fabric of existence.",
+        "rating": 8.8,
+        "image":"https://m.media-amazon.com/images/M/MV5BZGFjOTRiYjgtYjEzMS00ZjQ2LTkzY2YtOGQ0NDI2NTVjOGFmXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_.jpg"
+    },
+    {
+        "title": "Fight Club",
+        "short_description": "Brad Pitt and Edward Norton star in this cult classic about an insomniac office worker who forms an underground fight club as a form of therapy, only to spiral into a world of anarchy and chaos.",
+        "full_description": "Fight Club is a provocative and darkly humorous exploration of modern masculinity and the allure of nihilism. The unnamed narrator, disillusioned with his mundane existence, forms an underground fight club with the enigmatic Tyler Durden as a way to escape the soul-crushing monotony of consumer culture. However, as the club grows in size and influence, it evolves into a dangerous and anarchic movement that challenges the very foundations of society.",
+        "rating": 8.8,
+        "image":"https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "title": "Parasite",
+        "short_description": "A poor family cunningly infiltrates a wealthy household by posing as unrelated, highly qualified individuals, leading to an unexpected and sinister outcome.",
+        "full_description": "The Kim family lives in a squalid basement apartment and struggles to make ends meet. When the son, Ki-woo, gets a chance to tutor a wealthy family's daughter, he devises a plan to get his entire family employed by the Parks by posing as unrelated, highly skilled professionals. As the Kims settle into their new roles, they enjoy the luxuries of the Parks' lavish home. However, their deception leads to unforeseen consequences, unraveling into a dark, tragic, and satirical exploration of class disparity and human nature.",
+        "rating": 8.6,
+        "image":"https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
+    },
+    {
+        "title": "The Matrix",
+        "short_description": "A hacker discovers that the reality he lives in is a simulation controlled by intelligent machines, leading him to join a rebellion against them.",
+        "full_description": "Thomas Anderson, known by his hacker alias 'Neo,' lives a double life as a computer programmer and hacker. He is haunted by the feeling that there is something wrong with the world. His suspicions are confirmed when he meets Morpheus, who reveals that reality as Neo knows it is an elaborate illusion created by sentient machines to subdue humanity. Neo joins a group of rebels in their fight to overthrow the machines and liberate humanity, discovering his own potential as 'The One' destined to bring freedom.",
+        "rating": 8.7,
+        "image":"https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+    },
+    {
+        "title": "Goodfellas",
+        "short_description": "The rise and fall of a young man in the New York mafia, chronicling his life of crime and ultimate downfall.",
+        "full_description": "Henry Hill, a young man enamored with the glamour of the mafia, works his way up from running errands to becoming a trusted member of the New York mob. Alongside his friends Jimmy Conway and Tommy DeVito, Henry navigates the highs and lows of a life filled with crime, luxury, and betrayal. As the stakes grow higher and the risks more dangerous, Henry's world begins to crumble, leading to his inevitable downfall and the disintegration of the relationships he once held dear.",
+        "rating": 8.7,
+        "image":"https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    {
+        "title": "The Social Network",
+        "short_description": "The story of how Mark Zuckerberg created Facebook and the ensuing legal battles with his former friends and partners.",
+        "full_description": "The Social Network chronicles the rise of Facebook, starting with Mark Zuckerberg's creation of the social networking site while he was a student at Harvard. The film delves into the legal and personal conflicts that arose as Facebook grew, particularly the lawsuits filed by Eduardo Saverin, the company's co-founder, and the Winklevoss twins, who claimed Zuckerberg stole their idea. Through sharp dialogue and compelling performances, the film explores themes of ambition, betrayal, and the complex nature of success in the digital age.",
+        "rating": 7.7,
+        "image":"https://upload.wikimedia.org/wikipedia/en/8/8c/The_Social_Network_film_poster.png"
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "short_description": "In a post-apocalyptic wasteland, a drifter and a rebellious woman team up to escape a tyrannical warlord.",
+        "full_description": "Mad Max: Fury Road is set in a desolate future where water and gasoline are scarce commodities. Max Rockatansky, a lone drifter haunted by his past, is captured by the warlord Immortan Joe's forces. He soon joins forces with Furiosa, a fierce warrior who betrays Joe in a daring escape. Together, they lead a group of enslaved women on a high-octane chase across the wasteland, seeking sanctuary while being pursued by Joe and his ruthless army. The film is renowned for its stunning visuals, relentless action, and strong feminist themes.",
+        "rating": 8.1,
+        "image":"https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "title": "La La Land",
+        "short_description": "A jazz musician and an aspiring actress fall in love while pursuing their dreams in Los Angeles.",
+        "full_description": "La La Land tells the romantic story of Sebastian, a passionate jazz musician, and Mia, an aspiring actress, who meet and fall in love while struggling to achieve their dreams in Los Angeles. The film captures the joys and heartaches of their relationship as they navigate the challenges of their respective careers. With its vibrant musical numbers, nostalgic charm, and poignant exploration of ambition and love, La La Land is a modern tribute to classic Hollywood musicals.",
+        "rating": 8.0,
+        "image":"https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg"
+    },
+    {
+        "title": "Whiplash",
+        "short_description": "A young drummer enrolls at a prestigious music academy and faces psychological abuse from an intense instructor.",
+        "full_description": "Whiplash follows the intense journey of Andrew Neiman, an ambitious jazz drummer who enrolls at a prestigious music conservatory. There, he meets Terence Fletcher, a ruthless and demanding instructor who uses extreme psychological tactics to push his students to greatness. As Andrew strives to meet Fletcher's exacting standards, he is driven to the brink of obsession and madness. The film explores themes of ambition, sacrifice, and the high cost of artistic perfection, culminating in a breathtaking and electrifying finale.",
+        "rating": 8.5,
+        "image":"https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "short_description": "The adventures of a legendary concierge and his protégé at a famous European hotel between the world wars.",
+        "full_description": "The Grand Budapest Hotel recounts the whimsical and poignant adventures of Gustave H., a renowned concierge at a famous European hotel, and Zero Moustafa, his loyal protégé. Set against the backdrop of the interwar period, the film follows their escapades involving a stolen Renaissance painting, a wealthy family's feud, and a rapidly changing world. Director Wes Anderson's signature visual style and dark humor are on full display in this charming and intricately crafted tale of friendship, loyalty, and the passage of time.",
+        "rating": 8.1,
+        "image":"https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg"
+    },
+    {
+        "title": "Her",
+        "short_description": "A lonely writer develops a complex relationship with an advanced operating system designed to meet his every need.",
+        "full_description": "In the near future, Theodore Twombly, a sensitive and introverted writer, purchases an advanced operating system designed to cater to his every need. He soon forms an emotional bond with the OS, named Samantha, whose voice and personality evolve to become more human-like. As their relationship deepens, Theodore grapples with the nature of love and intimacy in a world where technology blurs the lines between human and artificial connections. Her explores themes of loneliness, identity, and the complexities of modern relationships.",
+        "rating": 8.0,
+        "image":"https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "title": "Inglourious Basterds",
+        "short_description": "A group of Jewish-American soldiers plan to assassinate Nazi leaders in German-occupied France during World War II.",
+        "full_description": "Inglourious Basterds is a revisionist history war film that follows two parallel plots to assassinate Nazi leaders during World War II. One plot involves a group of Jewish-American soldiers, known as the 'Basterds,' led by Lieutenant Aldo Raine, who conduct guerrilla warfare against the Nazis. The other plot centers on Shosanna Dreyfus, a young Jewish woman who seeks revenge after narrowly escaping a massacre. As the Basterds and Shosanna's plans converge, the film culminates in a dramatic and explosive showdown. Directed by Quentin Tarantino, the film combines dark humor, intense violence, and sharp dialogue.",
+        "rating": 8.3,
+        "image":"https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "title": "The Prestige",
+        "short_description": "Two rival magicians in 19th-century London engage in a bitter and deadly feud to create the ultimate stage illusion.",
+        "full_description": "The Prestige follows the intense rivalry between two magicians, Robert Angier and Alfred Borden, in late 19th-century London. After a tragic accident during a performance, their competitive relationship turns into a bitter feud as each strives to outdo the other with more elaborate and dangerous illusions. As they sabotage each other's acts and personal lives, their obsession with creating the perfect trick leads to shocking revelations and dire consequences. Directed by Christopher Nolan, the film explores themes of sacrifice, obsession, and the dark side of ambition.",
+        "rating": 8.5,
+        "image":"https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg"
+    }
+]
